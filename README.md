@@ -2,8 +2,8 @@
 Golang dofus style game
 
 
-##First start : 
+## First start : 
 docker build -t gogame .
 
-##Then :
+## Then :
 docker run -it gogame
